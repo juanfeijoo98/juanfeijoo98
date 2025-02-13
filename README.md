@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm Juan Pablo Feijoo, a passionate Data Science enthusiast currently specializing in SQL, Python, and Power BI. With a strong background in data analysis and ETL processes, I thrive on transforming raw data into meaningful insights that drive strategic decision-making. I am on a journey to master the tools and techniques of Data Science, aiming to bring value to innovative teams focused on data-driven solutions.
+I'm Juan Pablo Feijoo, a Data Science enthusiast with a strong background in SQL, Python, and Power BI. I’m passionate about turning raw data into meaningful insights that support strategic decision-making.
+
+My expertise includes data analysis, ETL processes, and data visualization, and I’m continuously expanding my knowledge in machine learning and predictive analytics. I enjoy working on real-world projects that challenge me to find innovative solutions through data.
+
+Always eager to learn, collaborate, and grow, I thrive in dynamic environments where data drives impact. Let’s connect and create something amazing! 🚀
 
 ---
 
